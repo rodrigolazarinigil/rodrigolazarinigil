@@ -1,6 +1,5 @@
-### Hi there 👋
+## Olá! Eu sou Rodrigo
 
-## Olá! Eu sou Rodrigo L. Gil
  <div>
   <a href="https://github.com/rodrigolazarinigil">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rodrigolazarinigil&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
