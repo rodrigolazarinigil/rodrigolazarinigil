@@ -2,8 +2,8 @@
 
  <div>
   <a href="https://github.com/rodrigolazarinigil">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rodrigolazarinigil&theme=dracula&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigolazarinigil&layout=compact&langs_count=7&theme=dracula&hide=Jupyter Notebook,PLSQL"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rodrigolazarinigil&theme=highcontrast&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigolazarinigil&layout=compact&langs_count=7&theme=highcontrast&hide=Jupyter Notebook,PLSQL"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Gil-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
